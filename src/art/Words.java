@@ -13,9 +13,6 @@ import java.util.Random;
 public class Words extends Pane {
 	/**
 	 * Name:        David Alvarado
-	 * CIN:         401439516
-	 * Course:      CS 2012
-	 * Section:     31315
 	*/
     private static final Random random = new Random();
 

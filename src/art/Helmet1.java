@@ -8,9 +8,6 @@ import javafx.scene.shape.ArcType;
 public class Helmet1 extends Pane {
 	/**
 	 * Name:        David Alvarado
-	 * CIN:         401439516
-	 * Course:      CS 2012
-	 * Section:     31315
 	*/
     public Helmet1() {
         Arc helmetShape = new Arc();

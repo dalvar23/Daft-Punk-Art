@@ -7,9 +7,6 @@ import javafx.scene.shape.Polygon;
 public class TriangleMouth extends Pane {
 	/**
 	 * Name:        David Alvarado
-	 * CIN:         401439516
-	 * Course:      CS 2012
-	 * Section:     31315
 	*/
 
     public TriangleMouth(double vertex1X, double vertex1Y,

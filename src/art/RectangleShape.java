@@ -7,9 +7,6 @@ import javafx.scene.shape.Rectangle;
 public class RectangleShape extends Pane {
 	/**
 	 * Name:        David Alvarado
-	 * CIN:         401439516
-	 * Course:      CS 2012
-	 * Section:     31315
 	*/
     private Rectangle rectangle;
 

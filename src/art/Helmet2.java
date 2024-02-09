@@ -11,9 +11,6 @@ import javafx.scene.shape.QuadCurveTo;
 public class Helmet2 extends Pane{
 	/**
 	 * Name:        David Alvarado
-	 * CIN:         401439516
-	 * Course:      CS 2012
-	 * Section:     31315
 	*/
 	public Helmet2() {
 		Ellipse ellipse = new Ellipse();

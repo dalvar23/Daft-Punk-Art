@@ -7,9 +7,6 @@ import javafx.scene.shape.Ellipse;
 public class EllipseShape extends Pane {
 	/**
 	 * Name:        David Alvarado
-	 * CIN:         401439516
-	 * Course:      CS 2012
-	 * Section:     31315
 	*/
 	public EllipseShape() {
 		Ellipse ellipse = new Ellipse();

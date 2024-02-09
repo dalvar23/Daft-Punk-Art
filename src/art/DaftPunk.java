@@ -7,9 +7,6 @@ import javafx.stage.Stage;
 
 /**
  * Name:        David Alvarado
- * CIN:         401439516
- * Course:      CS 2012
- * Section:     31315
  */
 
 public class DaftPunk extends Application {

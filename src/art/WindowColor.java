@@ -8,9 +8,6 @@ import java.util.Random;
 public class WindowColor extends Pane{
 	/**
 	 * Name:        David Alvarado
-	 * CIN:         401439516
-	 * Course:      CS 2012
-	 * Section:     31315
 	*/
     private Color bgColor;
 

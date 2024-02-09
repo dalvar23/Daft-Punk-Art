@@ -10,9 +10,6 @@ import javafx.scene.shape.QuadCurveTo;
 public class CurveLines extends Pane{
 	/**
 	 * Name:        David Alvarado
-	 * CIN:         401439516
-	 * Course:      CS 2012
-	 * Section:     31315
 	*/
 	public CurveLines() {
 		Path path = new Path();
